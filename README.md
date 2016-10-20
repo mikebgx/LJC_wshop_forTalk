@@ -1,6 +1,8 @@
-# LJC_wshop_forTalk for LJC/JavaWorkshop.git Intro to Java workshop.
-#  mikebgx/LJC_wshop_forTalk.git is repo for T_nn projects.
-#   which are demos to walk through uncommenting 1 step at a time, for (T)alk 
+# LJC_wshop_forTalk - Demos to talk through at event
+
+For LJC/JavaWorkshop.git Intro to Java workshop.
+  mikebgx/LJC_wshop_forTalk.git is repo for T_nn projects.
+  which are demos to walk through uncommenting 1 step at a time, for (T)alk 
 
 For event, clone the main Handout repo into a folder eg JavaWorkshop/
 

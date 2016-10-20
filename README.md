@@ -1,11 +1,9 @@
 # LJC_wshop_forTalk - Demos to talk through at event
 
-For LJC/JavaWorkshop.git Intro to Java workshop.
-  mikebgx/LJC_wshop_forTalk.git is repo for T_nn projects.
-  which are demos to walk through uncommenting 1 step at a time, for (T)alk 
+For presenting the LJC/JavaWorkshop.git Intro to Java workshop.
 
-For event, clone the main Handout repo into a folder eg JavaWorkshop/
+This mikebgx/LJC_wshop_forTalk repo is the T_nn (Talk) projects to go with the above, and consists of part-commented demos to talk through, uncommenting one step at a time.
 
-Then clone mikebgx/LJC_wshop_forTalk into another folder.
+Clone this and the main JavaWorkshop repo, then copy both into a new folder. Dont push the T_nn projects back into the JavaWorkshop repo.
 
-Then copy the T_ projects from it into that folder (but DONT push the T_ talk projects into the main Handout repo, these are not part of the Demos/ Exercise to hand out.)
+Workshop attendees should just clone the main LJC/JavaWorkshop repo.

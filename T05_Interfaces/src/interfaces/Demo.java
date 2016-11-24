@@ -57,7 +57,7 @@ public class Demo {
 
 
 
-		// 3. So, Make "habitable" classes  implement the  Habitable  interface, which has (abstract!)  .sleepIn()
+		/* // 3. So, Make "habitable" classes  implement the  Habitable  interface, which has (abstract!)  .sleepIn()
 		System.out.println( "Part 3..." );
 		Habitable d= b;	// Substitutability
 		d.sleepIn();
@@ -79,12 +79,38 @@ public class Demo {
 
 
 
-		// 4. Collection of interface types
+		/* // 4. Collection of interface types
 		System.out.println( "Part 4....");
 		Habitable[] myPads= {h, b, new House()};
 		for( Habitable d0: myPads ) {
 			d0.sleepIn();
 		} /* */
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+        /* // 5. (After ex5) Using interfaces for  "Generality" , 
+        //  Decouple to remove dependencies and make code flexible
+        //  And take this further, "new" creates a coupling so remove that too (using a DI framework such as Spring)
+        //  [ for demo: remove imports ]
+
+        //      ArrayList<String> names= new LinkedList<String>();  // Inflexible, change to LinkedList etc could require code changes
+        List<String> names= new ArrayList<String>();
+        names.add( "Mike" ); /* */
 
 	}
 
